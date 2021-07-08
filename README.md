@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @leviathanslope
+- 👀 I’m interested in creating games and having fun doing so!
+- 🌱 I’m currently learning Python.
